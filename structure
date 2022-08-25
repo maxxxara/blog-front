@@ -1,0 +1,38 @@
+---
+Pages
+    Home
+    Login
+    Registration
+    New Post
+    Single Post
+
+Components
+    Header
+    Content
+    Footer
+    Blog
+    Single
+    LoginForm
+    RegistrationForm
+    CreatePost
+
+Home
+    Header
+    Content
+    Footer
+    Blog
+Login
+    Header
+    Footer
+    LoginForm
+Registration
+    Header
+    Footer
+    Registration Form
+New Post
+    CreatePost
+    Header
+    Footer
+Single Post
+    Single
+    Header Footer
